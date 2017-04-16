@@ -1,0 +1,38 @@
+{
+	"zoommodes":[0.33,0.5,0.66,0.83,1,1.33,1.66,2],
+	"zoomdrawn":[1,1,1,1,1,2,2,2],
+	"defwidth":-1,
+	"defheight":-1,
+	"allheads":-1,
+	"head":-1,
+	"defwidth":-1,
+	"defheight":-1,
+	"head":-1,
+	"headrun":[1,1,1,1,1],
+	"body":[
+		"0x0 0x0 -1x0"
+	],
+	"leftear":[
+		"0x0 0x0 -1x0"
+	],
+	"leftearrun":[1,1,1,1,1,1,1,1,1,1,1,1],
+	"rightear":[
+		"0x0 0x0 -1x0"
+	],
+	"rightearrun":[1,1,1,1,1,1,1,1,1,1,1,1],
+	"legs":[
+		"0x0 0x0 -1x0"
+	],
+	"legsrun":[1,1,1,1,1,1],
+	"bodyrun":[1,1,1,1,1,1],
+	"tailposrun":[0,0,0,0,0,0],
+	"legsjump":[1,1,1,1],
+	"bodyjump":[1,1,1,1],
+	"tailposjump":[0,0,0,0],
+	"tail":[
+		"0x0 0x0 -1x0"
+	],
+	"tailrun":[1,1,1,1,1,1,1,1,1,1,1,1],
+	"trayicon":0,
+	"trayiconxy":0
+}

@@ -1,0 +1,52 @@
+{
+"add_pokemon":
+	"&Add",
+
+"more_dropdown":
+	"M&ore",
+
+"size_larger":
+	"&Larger",
+
+"size_smaller":
+	"S&maller",
+
+"speed_dropdown":
+	"&Speed",
+
+"speed_menu1":
+	"&Fast",
+
+"speed_menu2":
+	"&Normal",
+
+"speed_menu3":
+	"&Slow",
+
+"stop_running_around":
+	"Sto&p running around",
+
+"close_pokemon":
+	"Close",
+
+"secretclose1":
+	"Become an eevee",
+
+"secretclose2":
+	"Secret button don't click",
+
+"secretclose3":
+	"Don't be mean to eevees!",
+
+"secretclose_title":
+	"Eevees",
+
+"secretclose_msg1":
+	"The cute eevees are very sad to see you go 3:",
+
+"secretclose_msg2":
+	"Will you open more cute eevees soon?",
+
+"secretclose_msg3":
+	"Close the cute eevees and be an ugly eevee forever?"
+}
