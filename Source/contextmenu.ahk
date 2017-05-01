@@ -168,7 +168,7 @@ closepokemon(b:=0,c:=0,d:=0,byref a:=0){
 	}else if(shift){
 		n:=random(1,3)
 		text:=t("secretclose_msg" n)
-		msgbox 262404,% t("sercetclose_title"),% text
+		msgbox 262404,% t("secretclose_title"),% text
 		if(a_msgboxresult="Yes"){
 			exitapp
 		}else if(a_msgboxresult=""){
