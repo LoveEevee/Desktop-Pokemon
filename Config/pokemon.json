@@ -20,9 +20,9 @@
 		"mode":"vulpix",
 		"file":"Images/vulpix-fluffy.png"
 	},{
-		"name":"Doomguy Eevee"
-		"id":"doomguyeevee"
-		"mode":"eevee"
+		"name":"Doomguy Eevee",
+		"id":"doomguyeevee",
+		"mode":"eevee",
 		"file":"Images/eevee-doomguy.png"
 	},{
 		"name":"Zorua",
