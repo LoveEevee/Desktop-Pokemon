@@ -20,6 +20,12 @@
 		"mode":"vulpix",
 		"file":"Images/vulpix-fluffy.png"
 	},{
+		"name":"Doomguy Eevee"
+		"id":"doomguyeevee"
+		"mode":"eevee"
+		"more":1,
+		"file":"Images/eevee-doomguy.png"
+	},{
 		"name":"Zorua",
 		"id":"zorua",
 		"mode":"zorua",
@@ -91,6 +97,7 @@
 		"possessed":"possessedeevee",
 		"girlyfluffy":"girlyvulpix",
 		"alolan":"alolanvulpix"
+		"doomguy":"doomguyeevee"
 	},
 	"modenames":[
 		"eevee",
